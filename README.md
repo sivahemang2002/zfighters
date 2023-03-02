@@ -1,6 +1,6 @@
-# Diagnose
+#  CanacerZfighter
 
-This project is submitted for [PoweringSTEMHacks](https://poweringstemhacks.devpost.com/)
+This project is submitted for
 
 ---
 
@@ -78,19 +78,15 @@ suggest you a general doctor.
     ---
     
 ## Challenges we ran into 
-1. Fetching, Installing Dependencies and Fixing Backend Errors.
-2. Creating a model for detecting Melanoma and various other skin diseases than can lead to skin cancer.
 
 ## Accomplishments that we're proud of 
-We were able to successfully create an application to solve problems for those who are suffering from skin cancer mainly **Melanoma**. Team Work was something we were really proud of specially when we had errors we worked together to fix them.
 
-## What's next for Diagnose?
-We plan to finish this challenge and create a complete web application and help the user to experience the best out of it.
+
+## What's next for CanaerZfighters?
+
 
 ## Team Members:
-<a href="https://github.com/coder12git/PoweringSTEMHacks/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=coder12git/PoweringSTEMHacks"/>
-</a>
+
 
 
 ## Show your support
